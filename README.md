@@ -1,4 +1,4 @@
-# 🍔 SnackStack — Layered Intelligence for Food
+# Healthy SnackStack — Layered Intelligence for Food
 
 A **voice-enabled multi-agent food delivery assistant** built with **LangGraph**.
 
